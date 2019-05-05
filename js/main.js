@@ -77,7 +77,7 @@ const badWords = ['anal',
 'wank',
 'whore',
 'wtf',
-'asshole'
+'asshole',
 'douche'];
 const content = document.querySelector('.text-result');
 const form = document.querySelector('#form-refresh');
